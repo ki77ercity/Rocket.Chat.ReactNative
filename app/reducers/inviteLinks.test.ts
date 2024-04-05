@@ -13,7 +13,7 @@ import { mockedStore } from './mockedStore';
 describe('test roles reducer', () => {
 	const invite = {
 		_id: 'nZestg',
-		days: 1,
+		days: 0,
 		maxUses: 0,
 		createdAt: '2022-01-17T20:32:44.695Z',
 		expires: '2022-01-18T20:32:44.695Z',
